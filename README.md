@@ -1,6 +1,6 @@
-# COVID-19 Data Analysis with Pandas and Matplotlib
+# COVID-19 Data Analysis with Pandas
 
-This project involves analyzing **COVID-19 data** using the powerful Python libraries **Pandas** and **Matplotlib**. The goal is to clean, manipulate, and visualize the data to derive meaningful insights.
+This project involves analyzing **COVID-19 data** using the powerful Python libraries **Pandas**. The goal is to clean, and manipulate the data to derive meaningful insights.
 
 ---
 
@@ -14,6 +14,4 @@ The dataset used for this project can be downloaded from the following link:
 ## Tools and Libraries
 
 - **Pandas**: For data manipulation and cleaning.
-- **Matplotlib**: For data visualization and graphical analysis.
-
 ---
