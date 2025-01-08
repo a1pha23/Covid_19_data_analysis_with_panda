@@ -7,7 +7,7 @@ This project involves analyzing **COVID-19 data** using the powerful Python libr
 ## Dataset
 
 The dataset used for this project can be downloaded from the following link:  
-[**COVID-19 Dataset**](https://terabox.com/s/1cza_WGntxDu4THy-d9h_Tg)
+[**COVID-19 Dataset**](https://terabox.com/s/17isbHnmodWplVswYlaXxZw)
 
 ---
 
